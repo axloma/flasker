@@ -1,0 +1,15 @@
+html{
+font-size:32px;
+text-align:center;
+color:green;
+}
+body{
+background-color:red;
+align-item:center;
+text-align:center;
+position:relative;
+top:200px;
+}
+h1{
+background-color:blue;
+}
